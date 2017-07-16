@@ -20,9 +20,9 @@
     
             <div id="menu_tab">                                     
                     <ul class="menu">                                                                               
-                         <li><a href="home.jsp" class="nav">Home</a></li>
+                         <li><a href="home.jsp" class="nav">Home...</a></li>
                          <li class="divider"></li>
-                         <li><a href="takequiz.jsp" class="nav">Take Quiz</a></li>
+                         <li><a href="takequiz.jsp" class="nav">Take Quiz...</a></li>
                          <li class="divider"></li>
                          <li><a href="ask.jsp" class="nav">Ask Ques.</a></li>
                          <li class="divider"></li>
