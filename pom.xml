@@ -69,17 +69,11 @@
       </pluginManagement>
 	  </build>
 	  <distributionManagement>
-	  <repository>
-	  <id>releases</id>
-	  <name>Releases</name>
-	  <url>file:///C:/Users/mnvij/.jenkins/workspace/MavenProject2/</url>
-	  </repository>
-	  <snapshotRepository>
-	  <id>snapshots</id>
-	  <name>Snapshots</name>
-	  <url>file:///C:/Users/mnvij/Desktop/mavenprj/snapshots</url>
-	  </snapshotRepository>
-	  </distributionManagement>
+  <repository>
+    <id>Vijay</id>
+    <url>http://192.168.146.130:8081/nexus/content/repositories/Vijay</url>
+  </repository>
+</distributionManagement>
 	  <reporting>
     <plugins>
       <plugin>
